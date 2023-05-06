@@ -1,0 +1,36 @@
+*{
+    border: 1px;
+    border-color: red;
+    border-style: dotted;
+}
+body{
+    border-style: dashed;
+    border-color: blue;
+}
+.header{
+    text-align: center;
+    margin: auto;
+}
+.cotent{
+    text-align: center;
+}
+.info{
+    text-align: center;
+    height: 65px;
+}
+.imageTitle{
+    float: left;
+}
+.imageDate{
+    float: right;
+}
+.post{
+    width: 400px;
+    margin: auto;
+}
+.image{
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
