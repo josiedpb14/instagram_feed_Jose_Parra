@@ -1,11 +1,5 @@
-*{
-    border: 1px;
-    border-color: red;
-    border-style: dotted;
-}
 body{
-    border-style: dashed;
-    border-color: blue;
+    background-color: #eee;
 }
 .header{
     text-align: center;
@@ -19,14 +13,19 @@ body{
     height: 65px;
 }
 .imageTitle{
+    font-weight: bold;
     float: left;
 }
 .imageDate{
+    color: grey;
     float: right;
 }
 .post{
+    background-color: white;
     width: 400px;
+    height: auto;
     margin: auto;
+    margin-bottom: 50px;
 }
 .image{
     text-align: center;
